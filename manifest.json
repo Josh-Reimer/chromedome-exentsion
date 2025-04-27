@@ -9,7 +9,6 @@
         "default_title": "My Extension"
     },
     "permissions": [
-        "tabs",
-        "activeTab"
+        "tabs"
     ]
 }
