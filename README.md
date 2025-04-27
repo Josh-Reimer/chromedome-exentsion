@@ -1,4 +1,4 @@
-# /ChromeDome - the useless extension that counts your open tabs
+# ChromeDome - the useless extension that counts your open tabs
 
 # How to use 
 ```
