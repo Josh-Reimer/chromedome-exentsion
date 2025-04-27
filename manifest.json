@@ -7,5 +7,9 @@
     "action": {
         "default_popup": "index.html",
         "default_title": "My Extension"
-    }
+    },
+    "permissions": [
+        "tabs",
+        "activeTab"
+    ]
 }
