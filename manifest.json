@@ -5,7 +5,7 @@
     "description": "occupies the extension bar",
     "author": "Your Name",
     "action": {
-        "default_popup": "index.html",
+        "default_popup": "popup.html",
         "default_title": "My Extension"
     },
     "permissions": [
