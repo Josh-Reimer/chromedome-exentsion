@@ -1,0 +1,11 @@
+{
+    "name": "simple-chrome-extension",
+    "version": "1.0",
+    "manifest_version": 3,
+    "description": "occupies the extension bar",
+    "author": "Your Name",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "My Extension"
+    }
+}
